@@ -10,7 +10,7 @@ https://github.com/pszaro/mac-setup-playbook.git
 Things to do
 -----------------
 
-This repository is a forks of [Jeff Geerlings](https://github.com/geerlingguy/mac-dev-playbook) and [ricbra](https://github.com/ricbra/mac-dev-playbook) excellent repositories:
+This repository is forks of [Jeff Geerlings](https://github.com/geerlingguy/mac-dev-playbook) and [ricbra](https://github.com/ricbra/mac-dev-playbook) excellent repositories:
 
 It is a very stripped version suited to my needs while I test ansible.
 
