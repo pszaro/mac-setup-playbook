@@ -20,4 +20,4 @@ mas_installed_apps:
 #  - { id: 408981434, name: "iMovie (10.1.5)" }
 
 mas_upgrade_all_apps: no
-mas_signin_dialog: no
+mas_signin_dialog: yes
