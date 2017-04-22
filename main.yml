@@ -9,5 +9,5 @@
   roles:
 #    - geerlingguy.homebrew
 #    - dotfiles
-    - dock
     - mas
+    - dock
