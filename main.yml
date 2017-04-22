@@ -8,4 +8,5 @@
 
   roles:
 #    - geerlingguy.homebrew
-    - dotfiles
+#    - dotfiles
+    - dock
