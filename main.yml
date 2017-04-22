@@ -6,6 +6,10 @@
   vars_files:
     - vars/main.yml
 
+  vars_prompt:
+    - name: "mas_email"
+      prompt: "What Apple ID do you want use?"
+
   roles:
 #    - geerlingguy.homebrew
 #    - dotfiles
